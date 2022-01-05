@@ -22,6 +22,7 @@ body{
     border-radius:5%;
     background-color: rgb(247, 74, 74);
     border: none;
+    color: #fff;
     
 }
 .tow-dader{
@@ -93,4 +94,30 @@ body{
 }
 .golas-img{
     width: 50%;
+}
+#developre-part{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 150px;
+    
+}
+.develop-img{
+    width:40%;
+}
+.laptop-img{
+    width:80%;
+}
+.develop-text{
+    width:60%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.develop-btn{
+    padding: 15px 45px;
+    border-radius:5%;
+    background-color: rgb(247, 74, 74);
+    border: none;
+    margin-top: 30px;
+    color: #fff;
 }
